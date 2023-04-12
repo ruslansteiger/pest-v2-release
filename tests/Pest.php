@@ -1,3 +1,5 @@
 <?php
 
-// Programming by wishful thinking 💫
+use Tests\TestCase;
+
+uses(TestCase::class)->in('Feature');

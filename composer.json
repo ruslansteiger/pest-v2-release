@@ -18,6 +18,7 @@
         "nunomaduro/collision": "^7.4",
         "pestphp/pest": "^2.4",
         "pestphp/pest-plugin-laravel": "^2.0",
+        "pestphp/pest-plugin-watch": "^2.0",
         "spatie/laravel-ignition": "^2.1"
     },
     "autoload": {
